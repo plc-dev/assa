@@ -1,1 +1,3 @@
 sql_feedback/env
+*/__pycache__
+.env
